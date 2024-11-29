@@ -6,7 +6,7 @@ and Web Applications using PHP/HTML/CSS/Javascript.
 ## Type of Applications 🪩
 - Business Automation and Integration Apps.
 
-## Development Style 😇
+## Development Target 😇
 - Developing brand new apps from the ground up, or modernizing/upgrading old Apps.
 
 ## Skills 🔆
