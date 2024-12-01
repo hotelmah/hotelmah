@@ -1,7 +1,8 @@
 ## About Me 👨‍💻
 Hello Friends, 👋 I’m a professional Software Developer 👀
 interested in developing Windows Desktop Applications using C#/.NET
-and Web Applications using PHP/HTML/CSS/Javascript.
+and Web Applications using PHP/HTML/CSS/Javascript. I am interested
+in learning .NET MAUI for Mobile Applications. I am not there yet.
 
 
 ## Work Style 🧑‍🏭
@@ -19,12 +20,11 @@ and Web Applications using PHP/HTML/CSS/Javascript.
 - Developing brand new applications from the ground up, and/or modernizing/upgrading old applications.
 
 
-## Skills 🔆
-My best skills are:
+## My Best Skills 🔆
 - Organizing
 - Attention to Detail
+- Object-Oriented Design
 - Refactoring
-- Object-Oriented
 
 
 ## Training 👨‍🔧
@@ -35,7 +35,7 @@ I’m learning these technologies:
 
 
 ## Education 👨‍🎓
-Bachelors of Science in Computer Science
+Bachelor's of Science in Computer Science
  - University of Texas at Dallas
  - Texas A&M University
 
