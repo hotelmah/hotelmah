@@ -12,7 +12,7 @@ in learning .NET MAUI for Mobile Applications. I am not there yet.
 - I do believe in finished software.
 
 
-## Type of Applications 🪩
+## Type of Applications 🚔
 - Business Automation and Integration Applications.
 
 
